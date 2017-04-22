@@ -1,4 +1,7 @@
-# test coverage for  [app-notify (v2.0.2)](https://github.com/chovy/app-notify)  [![npm package](https://img.shields.io/npm/v/npmtest-app-notify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-app-notify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-app-notify.svg)](https://travis-ci.org/npmtest/node-npmtest-app-notify)
+# npmtest-app-notify
+
+#### basic test-coverage for  [app-notify (v2.0.2)](https://github.com/chovy/app-notify)  [![npm package](https://img.shields.io/npm/v/npmtest-app-notify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-app-notify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-app-notify.svg)](https://travis-ci.org/npmtest/node-npmtest-app-notify)
+
 #### Send SMS and email notifications from within your node.js app
 
 [![NPM](https://nodei.co/npm/app-notify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/app-notify)
@@ -84,7 +87,8 @@
     "scripts": {
         "test": "gulp test"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
